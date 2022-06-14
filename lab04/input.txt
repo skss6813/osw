@@ -1,0 +1,77 @@
+Unix is a multitasking, multi-user computer operating system originally 
+developed in 1969 by a group of AT&T employees at Bell Labs, including 
+Ken Thompson, Dennis Ritchie, Brian Kernighan, Douglas McIlroy, 
+and Joe Ossanna. 
+
+The Unix operating system was first developed in assembly language, 
+but by 1973 had been almost entirely recoded in C, greatly facilitating 
+its further development and porting to other hardware. 
+Today's Unix system evolution is split into various branches, 
+developed over time by AT&T as well as various commercial vendors, 
+universities (such as University of California, Berkeley's BSD), 
+and non-profit organizations.
+
+The Open Group, an industry standards consortium, owns the UNIX trademark. 
+Only systems fully compliant with and certified according to the Single 
+UNIX Specification are qualified to use the trademark; 
+others might be called Unix system-like or Unix-like, 
+although the Open Group disapproves[1] of this term. 
+However, the term Unix is often used informally to denote any operating 
+system that closely resembles the trademarked system.
+
+During the late 1970s and early 1980s, the influence of Unix in academic 
+circles led to large-scale adoption of Unix(particularly of the BSD variant, 
+originating from the University of California, Berkeley) by 
+commercial startups, the most notable of which are Solaris, HP-UX and AIX, 
+as well as Darwin, which forms the core set of components upon 
+which Apple's Mac OS X, Apple TV, and iOS are based. 
+Among all variants of Unix, the most widely used are 
+Linux, which is used to power data centers, desktops, mobile phones, 
+and embedded devices such as routers, set-top boxes or e-book readers. 
+Today, in addition to certified Unix systems such as those already 
+mentioned, Unix-like operating systems such as MINIX, Linux, Android, 
+and BSD descendants (FreeBSD, NetBSD, OpenBSD, and DragonFly BSD) are 
+commonly encountered. 
+
+The term traditional Unix may be used to describe a Unix or 
+an operating system that has the characteristics of either Version 7 
+Unix or UNIX System V. x1
+
+Unix is a multitasking, multi-user computer operating system originally 
+developed in 1969 by a group of AT&T employees at Bell Labs, including 
+Ken Thompson, Dennis Ritchie, Brian Kernighan, Douglas McIlroy, 
+and Joe Ossanna. 
+
+The Unix operating system was first developed in assembly language, 
+but by 1973 had been almost entirely recoded in C, greatly facilitating 
+its further development and porting to other hardware. 
+Today's Unix system evolution is split into various branches, 
+developed over time by AT&T as well as various commercial vendors, 
+universities (such as University of California, Berkeley's BSD), 
+and non-profit organizations.
+
+The Open Group, an industry standards consortium, owns the UNIX trademark. 
+Only systems fully compliant with and certified according to the Single 
+UNIX Specification are qualified to use the trademark; 
+others might be called Unix system-like or Unix-like, 
+although the Open Group disapproves[1] of this term. 
+However, the term Unix is often used informally to denote any operating 
+system that closely resembles the trademarked system.
+
+During the late 1970s and early 1980s, the influence of Unix in academic 
+circles led to large-scale adoption of Unix(particularly of the BSD variant, 
+originating from the University of California, Berkeley) by 
+commercial startups, the most notable of which are Solaris, HP-UX and AIX, 
+as well as Darwin, which forms the core set of components upon 
+which Apple's Mac OS X, Apple TV, and iOS are based. 
+Among all variants of Unix, the most widely used are 
+Linux, which is used to power data centers, desktops, mobile phones, 
+and embedded devices such as routers, set-top boxes or e-book readers. 
+Today, in addition to certified Unix systems such as those already 
+mentioned, Unix-like operating systems such as MINIX, Linux, Android, 
+and BSD descendants (FreeBSD, NetBSD, OpenBSD, and DragonFly BSD) are 
+commonly encountered. 
+
+The term traditional Unix may be used to describe a Unix or 
+an operating system that has the characteristics of either Version 7 
+Unix or UNIX System V. x2
